@@ -536,3 +536,10 @@ const server = http.createServer(async (req, res) => {
 });
 saveDb(); // crea productos.json / contenido.json (migra db.json si existía) y genera la portada
 server.listen(PORT, () => console.log(`Elena Accesorios en http://localhost:${PORT}  ·  Panel: /admin.html`));
+
+/* ---- Render: apagado ordenado ---- */
+process.on('SIGTERM', () => {
+  console.log('Apagando...');
+  server.close(() => process.exit(0));
+  setTimeout(() => process.exit(0), 8000).unref();
+});
