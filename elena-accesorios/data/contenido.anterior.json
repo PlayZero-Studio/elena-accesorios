@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "id": "llaveros",
+      "name": "Llaveros",
+      "order": 0
+    },
+    {
+      "id": "denarios",
+      "name": "Denarios",
+      "order": 1
+    },
+    {
+      "id": "rosarios",
+      "name": "Rosarios",
+      "order": 2
+    },
+    {
+      "id": "tarjetas",
+      "name": "Tarjetas",
+      "order": 3
+    },
+    {
+      "id": "prendedores",
+      "name": "Prendedores",
+      "order": 4
+    },
+    {
+      "id": "otros",
+      "name": "Otros",
+      "order": 5
+    }
+  ],
+  "settings": {
+    "brand": "Elena Accesorios",
+    "whatsapp": "5492244505043",
+    "instagram": "https://www.instagram.com/elena.accesorios24",
+    "hero": {
+      "eyebrow": "Grandes recuerdos, pequeños detalles",
+      "title": "Pensados para acompañar momentos inolvidables",
+      "subtitle": "Tarjetas, llaveros, denarios y rosarios personalizados,realizados con mucho amor."
+    },
+    "history": {
+      "title": "Nuestra Historia",
+      "body": "¡Hola! Soy Ro, docente de Nivel Inicial y creadora de Elena, un emprendimiento que nació del amor por los pequeños detalles y de las ganas de transformar una pasión en algo propio.\nEste proyecto nació gracias al apoyo incondicional de mi familia y mis amigas, pero especialmete de Camilita, mi amiga, mi compañera y mi fiel clienta, fanática de los anillos,un ser de luz, de corazon noble, sincero y sobre todo valiente. Con su entusiasmo y su confianza me dio el empujón que necesitaba cuando todavía no me animaba a emprender. Cuando finalmente decidí dar el paso, fue la primera en enterarse y recibió con muchísima alegría el nombre que había elegido.\n\n## ¿Por qué Elena?\n\nElena es mucho más que el nombre de mi emprendimiento: es un homenaje a mi abuela, Elena Susana, una de las personas más importantes de mi vida.Fue la mejor abuela que me pudo haber tocado y sigue siendo mi motorcito, esa presencia que me impulsa a crecer y seguir adelante. Aunque hoy ya no esté físicamente, sus enseñanzas y su esencia me acompañan en cada paso. De ella aprendí, entre tantas cosas, a no rendirme jamás.\nPor eso, cada pieza que lleva el nombre Elena también guarda un poquito de su historia y de todo el amor que sigue inspirándome.\n\n## Hecho a mano, con amor y en familia\n\nHoy, Elena crece gracias al acompañamiento y al cariño de quienes eligen nuestro trabajo. Cada mensaje, cada pedido y cada recomendación son una enorme alegría y una forma de ayudarnos a seguir creciendo.\nNos especializamos en la elaboración artesanal de souvenirs, pensados para acompañar momentos especiales como Comuniones, Bautismos y otras celebraciones .Cada pieza, se ensambla a mano y con dedicación. En este camino también hay una compañera indispensable: mi mamá, que me acompaña y pone sus manos y su cariño en el taller.\nNos encanta formar parte de esos momentos importantes y ayudar a crear recuerdos significativos, hechos especialmente para cada ocasión.\nGracias por elegir Elena, por valorar lo artesanal y por acompañarnos en este camino. Detrás de cada pieza hay una historia, muchas manos y, sobre todo, muchísimo amor."
+    },
+    "installments": [
+      "Las Flores, Bs As."
+    ],
+    "ctas": [
+      {
+        "id": "cta1",
+        "text": "¿Tenés un evento proximamente? Contanos y armamos juntas un souvenir unico y lleno de significado.",
+        "button": "Escribinos por WhatsApp",
+        "message": "¡Hola! Me gustaría consultar por souvenirs personalizados."
+      }
+    ]
+  }
+}
